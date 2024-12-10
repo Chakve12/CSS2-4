@@ -1,0 +1,232 @@
+* {
+    box-sizing: border-box;
+}
+
+.img {
+    background: url(../images/mainImg.png);
+    width: 1400px;
+    margin: 156px auto 0;
+    height: 674px;
+    padding: 39px 71px;
+    color: white;
+    font-family: Poetsen One;
+    font-size: 44px;
+}
+
+.img span {
+    display: block;
+}
+
+#launchContainer {
+    width: 100%;
+    text-align: center;
+    margin-top: 115px;    
+}
+
+#insideContent {
+    border: none;
+    background-color: #EBF8FE;
+    border-radius: 24px;
+    display: inline-block;
+    padding: 40px 32px;
+    width: 1137px;
+}
+
+#launchTitle {
+    color: #181D27;
+    font-size: 64px;
+    font-weight: 700;
+    font-family: Inria Sans;
+    text-align: center;
+}
+
+#launchDescription {
+    color: #535862;
+    font-family: Instrument Sans;
+    font-size: 32px;
+}
+
+#launchDescription span {
+    display: block;
+    text-align: left;
+}
+
+#launchForm {
+    display: inline-block;
+    margin-top: 24px;
+}
+
+#emailWRAP {
+    border-radius: 8px;
+    border: 1px solid #D5D7DA;
+    background-color: white;
+    padding: 12px 14px;
+    font-size: 16px;
+    width: 345px;
+    margin-right: 24px;
+}
+
+#subscribeWRAP {
+    padding: 12px 18px;
+    border: 2px solid white;
+    border-radius: 8px;
+    background-color: #007CB8;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+#privacyPolicy {
+    text-align: left;
+    margin-top: 8px;
+    color: #535862;
+    font-family: Inter;
+}
+
+#privacy1 {
+    display: inline-block;
+}
+
+#privacyPolicy a {
+    color: #535862;
+}
+
+#submitformContainer {
+    width: 100%;
+    margin-top: 72px;
+}
+
+#submitformContainer form {
+    text-align: center;
+    display: inline-block;
+    border-radius: 24px;
+    background-color: #EBF8FE;
+    padding: 40px 32px;
+}
+
+#submitformTitle {
+    text-align: left;
+    font-size: 40px;
+    font-weight: 700;
+    font-family: Inria Sans;
+    color: #181D27;
+    padding-bottom: 24px;
+}
+
+#insideContent2 {
+    margin: 0 auto;
+    text-align: center;
+}
+
+#userName {
+    display: block;
+    border-radius: 8px;
+    padding: 8px 16px;
+    border: 1px solid #380054;
+    width: 100%;
+    color: #6D5F8B;
+    font-size: 14px;
+    font-family: Noto Sans Georgian;
+}
+
+#labelTitle1 {
+    display: block;
+    color: #1B003D;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: left;
+    margin-bottom: 8px;
+    font-family: Noto Sans Georgian;
+}
+
+#userEmail {
+    display: block;
+    border-radius: 8px;
+    padding: 8px 16px;
+    border: 1px solid #380054;
+    width: 100%;
+    color: #6D5F8B;
+    font-size: 14px;
+    font-family: Noto Sans Georgian;
+    margin-bottom: 24px;
+}
+
+#labelTitle2 {
+    display: block;
+    text-align: left;
+    margin-top: 24px;
+    margin-bottom: 8px;
+    color: #1B003D;
+    font-family: Noto Sans Georgian;
+    font-size: 14px;
+}
+
+#QA1 {
+    display: block;
+    text-align: left;
+    color: #1B003D;
+    font-family: "Noto Sans Georgian";
+    font-size: 14px;
+    margin-bottom: 7px;
+}
+
+#yes2 {
+    margin-bottom: 10px;
+}
+
+#yes1 {
+    margin-bottom: 10px;
+}
+
+#yes3 {
+    margin-bottom: 24px;
+}
+
+#radio {
+    text-align: left;
+}
+
+#QA2 {
+    color: #1B003D;
+    font-family: "Noto Sans Georgian";
+    font-size: 14px;
+    margin-bottom: 7px;
+}
+
+#checkboxs {
+    text-align: left;
+}
+
+
+#QA2 {
+    display: block;
+    
+}
+
+#coursetypeC {
+    display: block;
+    margin-bottom: 10px;
+}
+
+
+
+#coursetypeCplus {
+    margin-bottom: 10px;
+}
+
+#coursetypeJava {
+    margin-bottom: 10px;
+}
+
+#submitbuttonWRAP {
+    all: unset;
+    text-align: end;
+    border: 2px solid #007CB8;
+    color: #007CB8;
+    background-color: transparent;
+    border-radius: 8px;
+    padding: 12px 18px;
+    margin-left: 300px;
+    margin-top: 7px;
+}
